@@ -1,0 +1,13 @@
+﻿<Properties StartupItem="Assembly-CSharp-Editor.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/UGUITools/Fonts/fz.fnt">
+    <Files>
+      <File FileName="Assets/UGUITools/Editor/BuildCustomFont.cs" Line="1" Column="1" />
+      <File FileName="Assets/UGUITools/Fonts/fz.fnt" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
