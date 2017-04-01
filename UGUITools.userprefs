@@ -1,9 +1,8 @@
 ﻿<Properties StartupItem="Assembly-CSharp-Editor.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/UGUITools/Fonts/fz.fnt">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/UGUITools/Editor/BuildCustomFont.cs">
     <Files>
-      <File FileName="Assets/UGUITools/Editor/BuildCustomFont.cs" Line="1" Column="1" />
-      <File FileName="Assets/UGUITools/Fonts/fz.fnt" Line="1" Column="1" />
+      <File FileName="Assets/UGUITools/Editor/BuildCustomFont.cs" Line="40" Column="28" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

@@ -47,7 +47,7 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\UGUITools\Editor\BuildCustomFont.cs" />
-     <None Include="Assets\Fonts\fzzyjt.fnt" />
+     <None Include="Assets\Fonts\test_font.fnt" />
  <Reference Include="UnityEditor.Advertisements">
  <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/Advertisements/Editor/UnityEditor.Advertisements.dll</HintPath>
  </Reference>
