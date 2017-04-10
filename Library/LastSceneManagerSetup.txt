@@ -1,4 +1,0 @@
-sceneSetups:
-- path: Assets/UGUITools/Samples/New Scene.unity
-  isLoaded: 1
-  isActive: 1
